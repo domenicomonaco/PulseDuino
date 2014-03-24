@@ -43,7 +43,7 @@ With this preamble I've created simple "Light pulse reader" by LDR sensor to rea
 You can found this implemenation of "Light Pulse Reader" into Examples folder, named as EnelDuino;
 
 
-## Special Thanks, ispiration and forks ##
+## Special Thanks, inspiration and forks ##
 * <http://enerduino.blogspot.it/2009/12/enerduino-italiano.html>
 * <http://bildr.org/2012/11/photoresistor-arduino/>
 * <http://blog.elettronicain.it/2011/07/22/tidigino-contest-monitor-real-time-consumi-energia-di-michele-mancini/>

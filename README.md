@@ -4,9 +4,6 @@
 * LICENSE: GNU v2 
 * Date: 24 / 03 / 2014
 
-## Derivaiton ##
-This is entirly derived by mine Arduino sketch for photoresistor and some inspiration that you found "Special Thanks, ispiration and forks" part of this document.
-
 ## Goals ##
 * Identify Light pulse by Photoresistor
 * Reading frequency of pulse
